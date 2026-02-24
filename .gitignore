@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+kris/
+myfast/
+venv/
+.venv/
+
+.env
+.env.*
+*.pem
+*.key
+*.crt
+
+# Editor
+.vscode/
+"@ | Set-Content .gitignore
